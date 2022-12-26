@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CardViewApp</string>
+    <string name="title1_value">Learn Android Book</string>
+    <string name="text_content_1">Learn Android Body Content lorem ipsum</string>
+    <string name="text_content_2">Learn Android Body Content lorem ipsum</string>
+    <string name="text_content_3">Learn Android Body Content lorem ipsum</string>
+    <string name="title2_value">Learn C++ Book</string>
+    <string name="title3_value">Learn Book</string>
+</resources>
